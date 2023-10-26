@@ -2,6 +2,7 @@ site_name: TestDocs
 site_url: https://example.com/
 repo_url: https://github.com/example/repository/
 repo_name: boasvdp/test_docs
+edit_uri: ""
 
 nav:
   - Home: index.md
