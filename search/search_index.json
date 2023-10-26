@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Index","text":"<p>This is an example index.</p>"},{"location":"about/","title":"About","text":"<p>This page lists all kinds of abouts about these docs.</p>"}]}
